@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "BTL_IOT",
+			"path": "."
+		},
+		{
+			"name": "LAB3_IOT",
+			"path": "../LAB3_IOT"
+		}
+	],
+	"settings": {}
+}
